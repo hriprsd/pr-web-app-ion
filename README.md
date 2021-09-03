@@ -1,2 +1,2 @@
-# pr-web-app-ion
-This repo holds packer code for building Custom Images
+# packer
+Repo to hold packer templates to build customized AMIs for DevOps project
